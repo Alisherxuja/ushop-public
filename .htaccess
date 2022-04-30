@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^ushoop\.uz$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ushoop\.uz$
+RewriteRule ^/?$ "http\:\/\/ushoop\.uz\/public" [R=301,L]

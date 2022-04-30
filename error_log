@@ -1,0 +1,6 @@
+[30-Apr-2022 10:25:37 Asia/Tashkent] PHP Warning:  require(/home/ushoopuz/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ushoopuz/public_html/artisan on line 18
+[30-Apr-2022 10:25:37 Asia/Tashkent] PHP Warning:  require(/home/ushoopuz/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ushoopuz/public_html/artisan on line 18
+[30-Apr-2022 10:25:37 Asia/Tashkent] PHP Fatal error:  require(): Failed opening required '/home/ushoopuz/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ushoopuz/public_html/artisan on line 18
+[30-Apr-2022 10:25:40 Asia/Tashkent] PHP Warning:  require(/home/ushoopuz/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ushoopuz/public_html/artisan on line 18
+[30-Apr-2022 10:25:40 Asia/Tashkent] PHP Warning:  require(/home/ushoopuz/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ushoopuz/public_html/artisan on line 18
+[30-Apr-2022 10:25:40 Asia/Tashkent] PHP Fatal error:  require(): Failed opening required '/home/ushoopuz/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ushoopuz/public_html/artisan on line 18
