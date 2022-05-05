@@ -10,7 +10,7 @@
     <div class="container">
         <div class="footer-menu">
             <div class="col-6 col-sm-3 footer-cols-left">
-                <h2 class="customers abt-comp__footer">О компании</h2>
+                <h2 class="customers abt-comp__footer">О1 компании</h2>
                 <ul>
                     @foreach ($pages as $page)
                         <li>
