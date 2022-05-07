@@ -358,6 +358,9 @@ footer .container{
     background: #26901b;
     border-radius: 8px 8px 0 0;
 }
+.footer {
+    width: 100%;
+}
 
 footer .container a{
     text-decoration: none;
