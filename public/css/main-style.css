@@ -191,8 +191,8 @@ dl, ol, ul{
 .advise-left1{
     padding: 32px;
     border-radius: 4px;
-    height: 350px !important;
-    width: 250px !important;
+    height: 296px !important;
+    width: 196px !important;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -200,7 +200,7 @@ dl, ol, ul{
 
 .advise-left2{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -208,7 +208,7 @@ dl, ol, ul{
 
 .advise-left3{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -216,7 +216,7 @@ dl, ol, ul{
 
 .advise-left4{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -224,7 +224,7 @@ dl, ol, ul{
 
 .advise-left5{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -232,7 +232,7 @@ dl, ol, ul{
 
 .advise-left6{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
