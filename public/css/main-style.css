@@ -656,7 +656,7 @@ hr{
     font-weight: bold;
     color: black;
     width: 196px;
-    height: 40px;
+    height: 40px !important;
 }
 
 .salat{
@@ -1535,6 +1535,8 @@ ol, ul{
   display: flex;
   justify-content: center;
   margin-top: 5px;
+    transform: translateY(20px);
+
 }
 
 .cart{
@@ -1547,7 +1549,7 @@ ol, ul{
 
 
 .o-item_title{
-    height: 60px;
+    height: 40px;
 }
 
 .main__product-img{
@@ -1556,6 +1558,11 @@ ol, ul{
     height: 200px;
     display: flex;
     justify-content: center;
+
+}
+
+.main__product:hover .button {
+    transform: translateY(0px);
 }
 
 .nav-logo{
