@@ -2,7 +2,8 @@
     background-color: #26901b !important;
     padding-top: 3px;
     padding-bottom: 3px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
 }
 
 .u-header a{
@@ -307,12 +308,16 @@ dl, ol, ul{
 }
 
 .banner-first{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    width: 1280px;
+    height: 160px;
 }
 
 .banner-content a img{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .index-news{
@@ -320,8 +325,12 @@ dl, ol, ul{
 }
 
 .banner-second{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    width: 1280px;
+    height: 160px;
 }
 
 .index-advise{
