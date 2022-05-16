@@ -4291,5 +4291,5 @@ input, textarea {
 
 /*                           */
 .owl-item .active {
-    background: red;
+    background: red !important;
 }
