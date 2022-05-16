@@ -4285,3 +4285,11 @@ input, textarea {
     box-shadow: none;
     background-color: #f8f9fa;
 }
+
+
+
+
+/*                           */
+.owl-item .active {
+    background: red;
+}
