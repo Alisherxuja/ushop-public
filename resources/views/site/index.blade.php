@@ -105,7 +105,7 @@
                 <div class="block-card d-flex">
                     <div class="block-icon"><img src="{{asset('img/index-block/2.png', env('APP_SSL'))}}" alt=""></div>
                     <div class="block-title">
-                        <h3>И свежесть и качествооооо1</h3>
+                        <h3>И свежесть и качество</h3>
                         <p>Будьте уверены: мы тщательно следим за свежестью и качеством продуктов на складе и на всех
                             этапах доставки</p>
                     </div>

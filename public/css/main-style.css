@@ -655,6 +655,8 @@ hr{
     font-size: 14px;
     font-weight: bold;
     color: black;
+    width: 196px;
+    height: 40px;
 }
 
 .salat{
@@ -1532,7 +1534,7 @@ ol, ul{
 .button{
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .cart{
@@ -1549,9 +1551,9 @@ ol, ul{
 }
 
 .main__product-img{
-    margin-bottom: 10px;
-    width: 196px;
-    height: 196px;
+    margin-bottom: 5px;
+    width: 200px;
+    height: 200px;
     display: flex;
     justify-content: center;
 }
@@ -1904,8 +1906,8 @@ ol, ul{
 }
 
 .carts .main__product-img{
-    width: 230px;
-    height: 210px;
+    width: 200px;
+    height: 200px;
 }
 
 .btn-check:focus+.btn, .btn:focus{
