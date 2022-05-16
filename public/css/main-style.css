@@ -647,8 +647,8 @@ hr{
     font-size: .95rem;
     line-height: .875rem;
     color: #95999b;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .o-item_title{
@@ -657,6 +657,7 @@ hr{
     color: black;
     width: 196px;
     height: 40px !important;
+    margin: 0 !important;
 }
 
 .salat{
@@ -1348,6 +1349,7 @@ ol, ul{
 }
 .owl-car-item{
     transition: all 0.2s;
+    box-shadow: 0px 0px 10px 2px rgba (0, 0, 0, 0.05)
 }
 
 
@@ -1355,7 +1357,7 @@ ol, ul{
   display: flex;
   flex-direction: column;
   padding: 10px 10px;
-  border: 1px solid #e7e8ec;
+  /*border: 1px solid #e7e8ec;*/
   border-radius: 4px;
 }
 .main__product-info {
