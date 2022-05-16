@@ -308,8 +308,7 @@ dl, ol, ul{
 }
 
 .banner-first{
-    margin-top: 25px;
-    margin-bottom: 25px;
+   margin: 25px auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     width: 1280px;
@@ -318,6 +317,8 @@ dl, ol, ul{
 
 .banner-content a img{
     border-radius: 4px;
+    width: 1280px;
+    height: 160px;
 }
 
 .index-news{
@@ -327,6 +328,7 @@ dl, ol, ul{
 .banner-second{
     margin-top: 25px;
     margin-bottom: 25px;
+    margin: 25px auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     width: 1280px;
@@ -1354,7 +1356,6 @@ ol, ul{
 
 owl-car-item{
     transition: all 0.2s;
-    box-shadow: 0px 0px 10px 2px rgba (0, 0, 0, 0.05);
 }
 
 .owl-car-item:hover{
@@ -1604,7 +1605,7 @@ owl-car-item{
 
 .owl-carousel, .owl-carousel .owl-item{
     position: unset !important;
-    box-shadow: 0px 0px 10px 2px rgba (0, 0, 0, 0.05); box-shadow: 0px 0px 10px 2px rgba (0, 0, 0, 0.05);
+    box-shadow: 0px 0px 10px 2px rgba (0, 0, 0, 0.05);
 }
 
 .owl-carousell, .owl-carousel .owl-item{
