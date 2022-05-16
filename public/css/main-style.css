@@ -318,7 +318,6 @@ dl, ol, ul{
 .banner-content a img{
     border-radius: 4px;
     width: 1280px;
-    height: 160px;
 }
 
 .index-news{
@@ -332,7 +331,7 @@ dl, ol, ul{
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     width: 1280px;
-    height: 160px;
+
 }
 
 .index-advise{
