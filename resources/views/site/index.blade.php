@@ -97,7 +97,7 @@
                 <div class="block-card d-flex">
                     <div class="block-icon"><img src="{{asset('img/index-block/1.png', env('APP_SSL'))}}" alt=""></div>
                     <div class="block-title" style="font-size: 20px;">
-                        <h3>И все на каждый день</h3>
+                        <h3>И все на каждый деньm</h3>
                         <p>Выбирайте из 40 000 товаров: у нас есть фрукты и овощи, мясо и рыба, все для дома и товары
                             для животных</p>
                     </div>
