@@ -258,7 +258,8 @@ ul {
 .advise-right {
     border-radius: 4px;
     padding: 15px;
-    margin-left: 5px;
+    margin: 15px;
+    width: 1090px;
     overflow: visible !important;
 }
 
@@ -1392,15 +1393,17 @@ textarea {
     display: flex;
     flex-direction: column;
     padding: 10px 10px;
-    border: 1px solid #e7e8ec;
-    border-radius: 8px;
+    /* border: 1px solid #e7e8ec; */
+    border-radius: 4px;
     overflow: hidden;
     transition: 0.2s all ease-in-out;
     box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.15);;
+    max-width: 220px;
+    max-height: 330px;
 }
 
 .main__product:hover {
-    box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.25);;
+    box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.35);;
 }
 
 .main__product-info {
@@ -1598,8 +1601,8 @@ textarea {
 .button {
     display: flex;
     justify-content: center;
-    margin-top: 5px;
-    transform: translateY(20px);
+    margin-top: 5px !important;
+    transform: translateY(30px);
     transition: 0.3s all ease-in-out;
 }
 
@@ -1617,7 +1620,7 @@ textarea {
 
 
 .o-item_title {
-    height: 40px;
+    height: 40px !important;
 }
 
 .main__product-img {
@@ -4628,4 +4631,8 @@ xcustom form elements
     border: none;
     box-shadow: none;
     background-color: #f8f9fa;
+}
+
+.owl-dots {
+    height: 0px !important;
 }
