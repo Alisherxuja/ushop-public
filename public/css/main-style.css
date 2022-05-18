@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .u-header{
     background-color: #007784 !important;
     padding-top: 3px;
@@ -185,12 +189,12 @@ dl, ol, ul{
 }
 
 .index-advise{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .advise-left1{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -198,7 +202,7 @@ dl, ol, ul{
 
 .advise-left2{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -206,7 +210,7 @@ dl, ol, ul{
 
 .advise-left3{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -214,7 +218,7 @@ dl, ol, ul{
 
 .advise-left4{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -222,7 +226,7 @@ dl, ol, ul{
 
 .advise-left5{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -230,14 +234,14 @@ dl, ol, ul{
 
 .advise-left6{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .advise-right{
-    border-radius: 10px;
+    border-radius: 4px;
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.329);
     padding: 10px;
     margin-left: 5px;
@@ -272,7 +276,7 @@ dl, ol, ul{
 }
 
 #jssor_1{
-    border-radius: 10px;
+    border-radius: 4px;
     margin-top: 20px !important;
 }
 
@@ -310,11 +314,11 @@ dl, ol, ul{
 }
 
 .banner-content a img{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .index-news{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .banner-second{
@@ -616,7 +620,7 @@ hr{
 }
 
 .owl-car-item img{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .owl-car-item{
@@ -657,7 +661,7 @@ hr{
     margin-top: 50px;
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.295);
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .col-title h2{
@@ -2001,7 +2005,7 @@ img {
     height: 100%;
     background: #c32aa3;
     color: white;
-    border-radius: 10px;
+    border-radius: 4px;
     cursor: pointer;
     transition: all .4s;
     z-index: 1;
@@ -2573,7 +2577,7 @@ e-button-1 .side-b:before {
     width: 90%;
     max-width: 700px;
     height: 300px;
-    border-radius: 10px;
+    border-radius: 4px;
     box-shadow: -10px 10px 40px rgba(0, 0, 0, 0.25);
     overflow: hidden;
     position: relative;
