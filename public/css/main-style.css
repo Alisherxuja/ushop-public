@@ -1,5 +1,5 @@
 .u-header {
-    background-color: #BDD631 !important;
+    background-color: 26901b !important;
     padding-top: 3px;
     padding-bottom: 3px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
@@ -377,7 +377,7 @@ ul {
 
 footer .container {
     padding: 30px;
-    background:#BDD631;
+    background:26901b;
     border-radius: 8px 8px 0 0;
 }
 
@@ -4639,4 +4639,9 @@ xcustom form elements
 
 .order-quan {
     height: 0px !important;
+ }
+
+
+ .owl-item {
+     width: 200px !important;
  }

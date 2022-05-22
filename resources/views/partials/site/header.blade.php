@@ -14,11 +14,11 @@
                 <ul class="navbar-nav mb-2 mb-lg-0 d-flex justify-content-between">
                     <li class="nav-item">
                         <a class="nav-link active d-flex align-items-center" aria-current="page"
-                           href="tel:{{$contact->phone}}">
+                           href="tel:+998946384336">
                             <span>
                                 <i class="far fa-phone-square-alt" style="font-size: 20px; margin-right: 8px"></i>
                             </span>
-                            +{{$contact->phone}}
+                            +998946384336
                         </a>
                     </li>
 
