@@ -258,7 +258,7 @@ ul {
 
 .advise-right {
     border-radius: 4px;
-    padding: 15px;
+    padding: 0 15px;
     width: 1090px;
     overflow: visible !important;
 }
@@ -666,8 +666,7 @@ hr {
     font-size: .95rem;
     line-height: .875rem;
     color: #95999b;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 5px 0 5px 0;
 }
 
 .o-item_title {
@@ -1396,8 +1395,8 @@ textarea {
     border-radius: 4px;
     overflow: hidden;
     transition: 0.2s all ease-in-out;
-    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.15);;
-    max-width: 220px;
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.15);
+    max-width: 280px;
     max-height: 330px;
     margin: 10px !important;
 }
