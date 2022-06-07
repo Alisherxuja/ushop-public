@@ -54,7 +54,7 @@ a:hover{
 }
 
 .nav-item{
-    border-radius: 8px;
+    border-radius: 4px;
     font-style: normal;
     font-variant-ligatures: normal;
     font-variant-caps: normal;
@@ -147,7 +147,7 @@ a:hover{
 }
 
 .carousel-inner{
-    border-radius: 5px;
+    border-radius: 4px;
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.329);
 }
 
@@ -185,12 +185,12 @@ dl, ol, ul{
 }
 
 .index-advise{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .advise-left1{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -198,7 +198,7 @@ dl, ol, ul{
 
 .advise-left2{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -206,7 +206,7 @@ dl, ol, ul{
 
 .advise-left3{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -214,7 +214,7 @@ dl, ol, ul{
 
 .advise-left4{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -222,7 +222,7 @@ dl, ol, ul{
 
 .advise-left5{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -230,16 +230,16 @@ dl, ol, ul{
 
 .advise-left6{
     padding: 32px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .advise-right{
-    border-radius: 10px;
+    border-radius: 4px;
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.329);
-    padding: 10px;
+    /* padding: 10px; */
     margin-left: 5px;
 }
 
@@ -251,7 +251,7 @@ dl, ol, ul{
     justify-content: center;
     font-size: .875rem;
     font-weight: 700;
-    border-radius: 8px;
+    border-radius: 4px;
     transition: .2s;
     outline: none!important;
     box-shadow: none!important;
@@ -272,7 +272,7 @@ dl, ol, ul{
 }
 
 #jssor_1{
-    border-radius: 10px;
+    border-radius: 4px;
     margin-top: 20px !important;
 }
 
@@ -310,11 +310,11 @@ dl, ol, ul{
 }
 
 .banner-content a img{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .index-news{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .banner-second{
@@ -356,7 +356,7 @@ dl, ol, ul{
 footer .container{
     padding: 30px;
     background: #007784;
-    border-radius: 8px 8px 0 0;
+    border-radius: 4px 4px 0 0;
 }
 
 footer .container a{
@@ -510,7 +510,7 @@ hr{
     color: black !important;
     background: #ffc709;
     padding: 9px 4px;
-    border-radius: 5px;
+    border-radius: 4px;
 }
 
 .ord-time:hover{
@@ -522,7 +522,7 @@ hr{
     color: black !important;
     background: #ffc709;
     padding: 15px 15px !important;
-    border-radius: 5px;
+    border-radius: 4px;
 }
 
 .catalog:hover{
@@ -616,7 +616,7 @@ hr{
 }
 
 .owl-car-item img{
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .owl-car-item{
@@ -657,7 +657,7 @@ hr{
     margin-top: 50px;
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.295);
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .col-title h2{
@@ -689,7 +689,7 @@ hr{
 }
 
 .form-control{
-    border-radius: 8px !important;
+    border-radius: 4px !important;
 }
 
 .input-group-addon{
@@ -772,7 +772,7 @@ hr{
     padding: 12px 0;
     color: #fff;
     border: none;
-    border-radius: 6px;
+    border-radius: 4px;
 }
 
 .sidebar-product-item-price{
@@ -847,7 +847,7 @@ hr{
     min-height: 64px;
     padding: 17px 40px;
     font-weight: 700;
-    border-radius: 8px;
+    border-radius: 4px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -878,7 +878,7 @@ hr{
 .message-dashboard{
     padding: 20px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .prev-basket{
@@ -912,7 +912,7 @@ hr{
   .dropdown-cons {
     background-color: #f9f9f9;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    border-radius: 8px;
+    border-radius: 4px;
   }
 
   /* Ð¡ÑÑ‹Ð»ÐºÐ¸ Ð²Ð½ÑƒÑ‚Ñ€Ð¸ Ð²Ñ‹Ð¿Ð°Ð´Ð°ÑŽÑ‰ÐµÐ³Ð¾ ÑÐ¿Ð¸ÑÐºÐ° */
@@ -1057,7 +1057,7 @@ ol, ul{
 }
 
 .header-to-basket{
-    border-radius: 8px;
+    border-radius: 4px;
 }
 .header-to-basket:hover{
     color: white;
@@ -1080,7 +1080,7 @@ ol, ul{
 .liked-item{
     text-decoration: none;
     transition: 0.2s;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 .liked-item:hover .o-item_title{
     color: #eea501;
@@ -1202,7 +1202,7 @@ ol, ul{
     transition: 0.4s;
     box-shadow: 0 0px 13px 0 rgba(0, 0, 0, 0.3);
     margin-bottom: 15px;
-    border-radius: 5px;
+    border-radius: 4px;
   }
 
   .akk-basket_nav .accordion:hover{
@@ -1217,7 +1217,7 @@ ol, ul{
     transition: max-height 0.2s ease-out;
     box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.2);
     margin-bottom: 15px;
-    border-radius: 5px;
+    border-radius: 4px;
   }
 
   .faq-main{
@@ -1266,7 +1266,7 @@ ol, ul{
   }
 
   .containar {
-    border-radius: 5px;
+    border-radius: 4px;
     padding: 20px;
   }
 
@@ -1348,13 +1348,14 @@ ol, ul{
   flex-direction: column;
   padding: 10px 10px;
   border: 1px solid #e7e8ec;
-  border-radius: 8px;
+  border-radius: 4px;
+  margin: 10px;
 }
 .main__product-info {
   position: relative;
   width: 100%;
   height: 300px;
-  border-radius: 6px;
+  border-radius: 4px;
   overflow: hidden;
   user-select: none;
 }
@@ -1478,7 +1479,7 @@ ol, ul{
   border: none;
   font-size: 18px;
   text-transform: uppercase;
-  border-radius: 6px;
+  border-radius: 4px;
   line-height: 1;
   cursor: pointer;
 }
@@ -1612,7 +1613,7 @@ ol, ul{
     width: 100%;
       padding: 10px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
-      border-radius: 8px;
+      border-radius: 4px;
   }
 
   /* Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ */
@@ -1639,7 +1640,7 @@ ol, ul{
     color: gray;
     font-weight: bold;
     font-size: 20px;
-    border-radius: 0 3px 3px 0;
+    border-radius: 0 4px 4px 0;
     user-select: none;
     -webkit-user-select: none;
       text-decoration: none;
@@ -1651,7 +1652,7 @@ ol, ul{
   /* Ð Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ "Ð²Ð¿ÐµÑ€ÐµÐ´" ÑÐ¿Ñ€Ð°Ð²Ð° */
   .next {
     right: 0;
-    border-radius: 3px 0 0 3px;
+    border-radius: 4px 0 0 4px;
   }
 
   /* ÐŸÑ€Ð¸ Ð½Ð°Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ ÐºÑƒÑ€ÑÐ¾Ñ€Ð° Ð¼Ñ‹ÑˆÐ¸ Ð´Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚ Ñ„Ð¾Ð½Ð° Ñ Ð½ÐµÐ±Ð¾Ð»ÑŒÑˆÐ¸Ð¼ Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¼ ÑÐ»Ð¾ÐµÐ¼ */
@@ -1675,7 +1676,7 @@ ol, ul{
     background-color: lightgray;
     color: white;
     margin: 10px 0;
-    border-radius: 8px;
+    border-radius: 4px;
   }
 
   .row:after {
@@ -1708,13 +1709,13 @@ ol, ul{
   .view-img__gallery{
     max-width: 100%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 4px;
   }
 
   .product-general__info{
       width: 50%;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
-      border-radius: 8px;
+      border-radius: 4px;
       padding: 40px;
   }
 
@@ -1920,7 +1921,7 @@ ol, ul{
 
 .item{
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
-    border-radius: 8px;
+    border-radius: 4px;
     padding: 10px;
 }
 
@@ -2001,7 +2002,7 @@ ol, ul{
     height: 100%;
     background: #c32aa3;
     color: white;
-    border-radius: 10px;
+    border-radius: 4px;
     cursor: pointer;
     transition: all .4s;
     z-index: 1;
@@ -2223,7 +2224,7 @@ e-button-1 .side-b:before {
     justify-content: center;
     font-size: .875rem;
     font-weight: 700;
-    border-radius: 8px;
+    border-radius: 4px;
     transition: .2s;
     text-decoration: none;
 }
@@ -2342,7 +2343,7 @@ e-button-1 .side-b:before {
 
 .basket-right_col{
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
-    border-radius: 8px;
+    border-radius: 4px;
     padding: 15px;
 }
 
@@ -2428,7 +2429,7 @@ e-button-1 .side-b:before {
 }
 
 .form-check-label{
-    border-radius: 8px;
+    border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.336);
 }
 
@@ -2573,7 +2574,7 @@ e-button-1 .side-b:before {
     width: 90%;
     max-width: 700px;
     height: 300px;
-    border-radius: 10px;
+    border-radius: 4px;
     box-shadow: -10px 10px 40px rgba(0, 0, 0, 0.25);
     overflow: hidden;
     position: relative;
@@ -2921,7 +2922,7 @@ e-button-1 .side-b:before {
 
 .wrapper  {
     background-color: #fff;
-    border-radius: 5px;
+    border-radius: 4px;
     align-self: center;
     box-sizing: border-box;
 }
@@ -3096,7 +3097,7 @@ e-button-1 .side-b:before {
     background-color: #fff;
     width: 100%;
     padding: 30px;
-    border-radius: 8px;
+    border-radius: 4px;
     display: inline-flex;
     flex-direction: column;
     flex-wrap: wrap;
