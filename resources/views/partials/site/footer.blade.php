@@ -6,7 +6,7 @@
 
 
 <!-- FOOTER START -->
-<footer id="footer" style="background-color:#26901b;">
+<footer id="footer" style="background-color:#007784;">
     <div class="container">
         <div class="footer-menu">
             <div class="col-6 col-sm-3 footer-cols-left">
