@@ -1929,7 +1929,7 @@ ol, ul{
     border-radius: 4px;
     padding: 10px;
     margin: 5px 0;
-    transition: all;
+    transition: all 0.3s;
 }
 
 .item:hover {
