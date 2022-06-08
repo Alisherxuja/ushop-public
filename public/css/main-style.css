@@ -234,11 +234,13 @@ dl, ol, ul{
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 314px;
+    margin-top: 10px;
 }
 
 .advise-right{
     border-radius: 4px;
-    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.329);
+    /* box-shadow: 0 2px 7px rgba(0, 0, 0, 0.329); */
     /* padding: 10px; */
     margin-left: 5px;
 }
@@ -4277,4 +4279,9 @@ input, textarea {
     border: none;
     box-shadow: none;
     background-color: #f8f9fa;
+}
+
+.owl-dots {
+    height: 0px !important;
+    width: 0px !important;
 }
