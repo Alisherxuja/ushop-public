@@ -13,12 +13,12 @@
                     <li class="filter">
                         <a class="selected" href="javascript:void(0)" data-type="all">Все</a>
                     </li>
-                    <li class="filter" data-filter=".color-1">
+                    <!-- <li class="filter" data-filter=".color-1">
                         <a href="javascript:void(0)" data-type="color-1">что-то</a>
                     </li>
                     <li class="filter" data-filter=".color-2">
                         <a href="javascript:void(0)" data-type="color-2">что-то</a>
-                    </li>
+                    </li> -->
                 </ul> <!-- cd-filters -->
             </div> <!-- cd-tab-filter -->
         </div> <!-- cd-tab-filter-wrapper -->

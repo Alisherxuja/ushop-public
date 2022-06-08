@@ -14,17 +14,17 @@
                 <ul class="navbar-nav mb-2 mb-lg-0 d-flex justify-content-between">
                     <li class="nav-item">
                         <a class="nav-link active d-flex align-items-center" aria-current="page"
-                           href="tel:+998946384336">
+                           href="tel:+998909090810">
                             <span>
                                 <i class="far fa-phone-square-alt" style="font-size: 20px; margin-right: 8px"></i>
                             </span>
-                            +998946384336
+                            +998909090810
                         </a>
                     </li>
 
                     <li class="tg-header nav-item dropdown d-flex flex-column align-items-center justify-content-center">
                         <a class="header-tg_bot d-flex align-items-center justify-content-center"
-                           href="https://t.me/Shohrux99">
+                           href="https://t.me/alewer">
                             <i style="margin-right: 10px; font-size: 25px;" class="fab fa-telegram"></i>
                             Наш телеграм бот
                         </a>
