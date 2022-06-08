@@ -1351,7 +1351,6 @@ ol, ul{
   display: flex;
   flex-direction: column;
   padding: 10px 10px;
-  /* border: 1px solid #e7e8ec; */
   border-radius: 4px;
   margin: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
@@ -2746,14 +2745,7 @@ e-button-1 .side-b:before {
     align-items: center;
 }
 
-.header-tg_bot{
-    color: white;
-    transition: 0.3s;
-}
 
-.header-tg_bot:hover{
-    color: #eea501;
-}
 
 .history-items .accordion{
     width: 300px;
@@ -4281,7 +4273,7 @@ input, textarea {
 
 .addres-template_select:focus{
     border-color: #007784;
-    box-shadow: 0 0 0 0.25rem #007784;
+    box-shadow: 0 0 0 0.25rem rgb(0, 119, 132);
 }
 
 .addres-template_select{
