@@ -28,6 +28,10 @@
     .block-card{
         margin-right: 10px;
     }
+
+    .banner-rd-link img{
+        width: 100%;
+    }
 }
 
 @media (max-width: 500px) {
@@ -66,6 +70,10 @@
     .products-item img{
         display: none;
     }
+
+    .banner-rd-link img{
+        width: 100%;
+    }
 }
 
 @media (max-width: 600px) {
@@ -81,6 +89,10 @@
     }
     .faq-left{
         width: 100%
+    }
+
+    .banner-rd-link img{
+        width: 100%;
     }
 }
 
@@ -109,6 +121,10 @@
         width: 100%;
     }
     .product-general{
+        width: 100%;
+    }
+
+    .banner-rd-link img{
         width: 100%;
     }
 }
@@ -164,6 +180,10 @@
         width: 200px;
     }
 
+    .banner-rd-link img{
+        width: 100%;
+    }
+
 }
 
 @media (max-width: 576px) {
@@ -197,6 +217,8 @@
     .first-logo{
         display: none;
     }
+
+    
 }
 
 @media (max-width: 1200px) {
