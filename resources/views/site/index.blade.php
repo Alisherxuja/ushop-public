@@ -228,7 +228,7 @@
                 <div class="abt-us_item col-6 col-md-4 d-flex flex-column align-items-center">
                     <img src="{{asset('img/whywe/ea083f592b7d46f146c798a171221f22.png', env('APP_SSL'))}}" alt="">
                     <h5 class="fw-bolder">Богатый ассортимент</h5>
-                    <p>По обилию ассортимента наш интернет-магазин ничем не уступает крупным супермаркетам.</p>
+                    <p>По обилию ассортимента наш интернет-магазин ничем не уступает крупным супермаркетам</p>
                 </div>
 
                 <div class="abt-us_item col-6 col-md-4 d-flex flex-column align-items-center">
